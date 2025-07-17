@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "https://icon.maodeyu.fun/favicon/linux.do"
-        },
-        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
