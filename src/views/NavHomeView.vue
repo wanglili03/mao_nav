@@ -27,7 +27,7 @@
       <!-- 左侧边栏底部信息 -->
       <div class="sidebar-footer">
         <a
-          href="https://github.com/maodeyu180/mao_nav"
+          href="https://github.com/wanglili03/mao_nav"
           target="_blank"
           rel="noopener noreferrer"
           class="github-link"
