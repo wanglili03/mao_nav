@@ -145,13 +145,13 @@
           <footer class="page-footer" hidden="true">
             <div class="footer-content">
               <div class="footer-info">
-                <h3>{{ title || '猫猫导航' }}</h3>
+                <h3>{{ title || '金金咩的导航' }}</h3>
                 <p>一个简洁、美观的导航网站，收录优质网站资源</p>
               </div>
 
               <div class="footer-links">
                 <a
-                  href="https://github.com/maodeyu180/mao_nav"
+                  href="https://github.com/wanglili03/mao_nav"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="footer-link"
