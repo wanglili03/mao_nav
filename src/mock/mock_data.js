@@ -193,13 +193,6 @@ export const mockData = {
           "icon": "https://icon.maodeyu.fun/favicon/stackoverflow.com"
         },
         {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "https://icon.maodeyu.fun/favicon/linux.do"
-        },
-        {
           "id": "nodeseek",
           "name": "NodeSeek",
           "url": "https://www.nodeseek.com",
