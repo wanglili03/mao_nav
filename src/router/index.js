@@ -34,7 +34,7 @@ const router = createRouter({
 router.beforeEach((to, from, next) => {
   // 设置页面标题
   if (to.meta?.title) {
-    document.title = '金金咩的导航'
+    document.title = to.meta.title
   } else {
     document.title = '金金咩的导航'
   }
