@@ -34,7 +34,36 @@ export const mockData = {
       "icon": "🌐",
       "name": "金金的自建网站",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1752718220956",
+          "name": "免费观影",
+          "url": "https://tv.wlj0327.online/",
+          "description": "自建免费观影1",
+          "icon": "https://picture.wlj0327.online/app/thumb.php?img=/i/2025/06/11/rfafrd.jpg"
+        },
+        {
+          "id": "site-1752718265788",
+          "name": "免费图床",
+          "url": "https://picture.wlj0327.online/",
+          "description": "自建免费图床",
+          "icon": "https://picture.wlj0327.online/favicon.ico"
+        },
+        {
+          "id": "site-1752718349592",
+          "name": "自建博客",
+          "url": "https://wlj0327.baby/",
+          "description": "自建wp博客",
+          "icon": "https://picture.wlj0327.online/app/thumb.php?img=/i/2025/06/11/rfalea.jpg"
+        },
+        {
+          "id": "site-1752718403263",
+          "name": "免费观影2",
+          "url": "https://tv1.wlj0327.online/",
+          "description": "自建免费观影2",
+          "icon": "https://tv1.wlj0327.online/favicon.ico"
+        }
+      ]
     },
     {
       "id": "ai-tools",
