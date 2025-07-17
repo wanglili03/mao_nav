@@ -5,7 +5,7 @@
       <!-- Logo区域 -->
       <div class="logo-section">
         <img src="@/assets/logo.png" alt="logo" class="logo" />
-        <h1 class="site-title">{{ title || '猫猫导航' }}</h1>
+        <h1 class="site-title">{{ title || '金金咩的导航' }}</h1>
       </div>
 
       <!-- 分类导航 -->
@@ -165,8 +165,8 @@
             </div>
 
             <div class="footer-bottom">
-              <p>&copy; {{ new Date().getFullYear() }} 猫猫导航 - 由 <a href="https://github.com/maodeyu180" target="_blank" rel="noopener noreferrer">maodeyu180</a> 用 ❤️ 制作</p>
-              <p class="footer-tech">基于 Vue.js 构建 | <a href="https://github.com/maodeyu180/mao_nav" target="_blank" rel="noopener noreferrer">查看源代码</a></p>
+              <p>&copy; {{ new Date().getFullYear() }} 金金咩的导航 - 由 <a href="https://github.com/wanglili03/mao_nav" target="_blank" rel="noopener noreferrer">maodeyu180</a> 用 ❤️ 制作</p>
+              <p class="footer-tech">基于 Vue.js 构建 | <a href="https://github.com/wanglili03/mao_nav" target="_blank" rel="noopener noreferrer">查看源代码</a></p>
             </div>
           </footer>
         </div>
